@@ -2,8 +2,8 @@
 /**
  * The Template for displaying all single campaigns.
  *
- * @package Fundify
- * @since Fundify 1.0
+ * @package Modified Fundify for Palootoo
+ * @since Palootoo 1.5
  */
 
 global $campaign;
