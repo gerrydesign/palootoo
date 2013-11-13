@@ -1,0 +1,594 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Peter's Collaboration E-mails v1.3.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-01-29 11:51-0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Peter <peter@keung.biz>\n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: peters_collaboration_emails.php:181
+#, php-format
+msgid "There is a new post to review, written by %s."
+msgstr "Naujas įrašas, parašytas %s, pateiktas peržiūrai."
+
+#: peters_collaboration_emails.php:184
+#, php-format
+msgid "Accompanying note from %s:"
+msgstr "Pridėtinis įspėjimas nuo %s:"
+
+#: peters_collaboration_emails.php:187
+msgid "Review and publish it here: "
+msgstr "Peržiūrėkite ir paskelbkite tai čia:"
+
+#: peters_collaboration_emails.php:190
+msgid "pending"
+msgstr "laukiama"
+
+#: peters_collaboration_emails.php:211 peters_collaboration_emails.php:251
+#: peters_collaboration_emails.php:287 peters_collaboration_emails.php:329
+#: peters_collaboration_emails.php:348
+#, php-format
+msgid "Hi %s!"
+msgstr "Labas, %s!"
+
+#: peters_collaboration_emails.php:214
+#, php-format
+msgid "Your post has been approved by %s and is now published"
+msgstr "%s Patvirtino Jūsų įrašą, jis jau paskelbtas"
+
+#: peters_collaboration_emails.php:218 peters_collaboration_emails.php:258
+msgid "Your post has been approved"
+msgstr "Jūsų įrašas patvirtintas"
+
+#: peters_collaboration_emails.php:225 peters_collaboration_emails.php:264
+#: peters_collaboration_emails.php:300
+msgid "Accompanying note:"
+msgstr "Pridėtinis įspėjimas:"
+
+#: peters_collaboration_emails.php:228 peters_collaboration_emails.php:331
+msgid "See it here:"
+msgstr "Pamatykite tai čia:"
+
+#: peters_collaboration_emails.php:231
+msgid "published"
+msgstr "paskelbtas"
+
+#: peters_collaboration_emails.php:254
+#, php-format
+msgid ""
+"Your post has been approved by %s and is scheduled to be published on %s UTC "
+"%s"
+msgstr ""
+"%s Patvirtino Jūsų įrašą. Įrašas suplanuotas paskelbti Jūsų %s Laiku %s"
+
+#: peters_collaboration_emails.php:269
+msgid "approved and scheduled"
+msgstr "patvirtintas ir suplanuotas"
+
+#: peters_collaboration_emails.php:290
+#, php-format
+msgid "Your post has been reverted back to draft status by %s."
+msgstr "%s grąžino Jūsų įrašus peržiūrai, įrašas laikomas juodraščio būsenoje."
+
+#: peters_collaboration_emails.php:294
+msgid "Your post has been reverted back to draft status."
+msgstr "Jūsų įrašas gražintas peržiūrai ir yra laikomas juodraščio būsenoje."
+
+#: peters_collaboration_emails.php:304 peters_collaboration_emails.php:352
+#, fuzzy
+msgid "Edit it again here: "
+msgstr "Redaguokite tai dar kartą čia:"
+
+#: peters_collaboration_emails.php:307
+msgid "back to draft"
+msgstr "grįžti į juodraštį"
+
+#: peters_collaboration_emails.php:330
+msgid "Your post is now live."
+msgstr "Jūsų įrašas dabar pasiekiamas skaitytojams."
+
+#: peters_collaboration_emails.php:334
+msgid "is now live"
+msgstr "yra pasiekiamas skaitytojams"
+
+#: peters_collaboration_emails.php:349
+#, php-format
+msgid "An editorial note has been added to your post by %s:"
+msgstr ""
+
+#: peters_collaboration_emails.php:355
+msgid "has been modified with an editorial note"
+msgstr ""
+
+#: peters_collaboration_emails.php:448
+msgid "Admin address"
+msgstr "Administratoriaus adresas"
+
+#: peters_collaboration_emails.php:450
+msgid "Other"
+msgstr "Kiti"
+
+#: peters_collaboration_emails.php:467 peters_collaboration_emails.php:483
+msgid "**** ERROR: Invalid moderator user ID ****"
+msgstr "**** KLAIDA: Neteisingas prižiūrėtojo vartotojo identifikatorius ****"
+
+#: peters_collaboration_emails.php:493
+msgid "**** ERROR: Invalid moderator e-mail address submitted ****"
+msgstr ""
+"**** KLAIDA: Pateiktas neteisingas prižiūrėtojo elektroninio pašto adresas "
+"****"
+
+#: peters_collaboration_emails.php:503
+msgid "**** ERROR: Invalid e-mail address submitted ****"
+msgstr "**** KLAIDA: Pateiktas neteisingas elektroninio pašto adresas ****"
+
+#: peters_collaboration_emails.php:536
+msgid "Default moderators updated."
+msgstr "Numatytieji prižiūrėtojai atnaujinti."
+
+#: peters_collaboration_emails.php:540
+msgid "You must have at least one default mod."
+msgstr "Jūs turite turėti bent vieną numatytąjį prižiūrėtoją."
+
+#: peters_collaboration_emails.php:570
+#, php-format
+msgid "**** ERROR: Group with ID of %d does not exist ****"
+msgstr "**** KLAIDA:  Grupė su Identifikatoriumi %d neegzistuoja ****"
+
+#: peters_collaboration_emails.php:593
+#, php-format
+msgid "You must have at least one default mod for the group \"%s\"."
+msgstr "Jūs turite turėti bent vien numatytąjį prižiūrėtoją grupei \"%s\"."
+
+#: peters_collaboration_emails.php:601
+msgid "Group moderators updated."
+msgstr "Grupės prižiūrėtojai atnaujinti."
+
+#: peters_collaboration_emails.php:624
+msgid "**** ERROR: Invalid new group contributor user ID ****"
+msgstr ""
+"**** KLAIDA: Neteisingas naujo grupės bendradarbio vartotojo "
+"Identifikatorius ****"
+
+#: peters_collaboration_emails.php:633
+msgid "**** ERROR: Invalid new group moderator user ID ****"
+msgstr ""
+"**** KLAIDA: Neteisingas naujo grupės prižiūrėtojo vartotojo "
+"Identifikatorius ****"
+
+#: peters_collaboration_emails.php:643
+msgid "**** ERROR: Invalid new group moderator submitted ****"
+msgstr "**** KLAIDA: Pateiktas neteisingas naujas grupės prižiūrėtojas ****"
+
+#: peters_collaboration_emails.php:651
+msgid "New group created."
+msgstr "Nauja grupė sukurta."
+
+#: peters_collaboration_emails.php:654
+msgid ""
+"**** ERROR: Unknown query error when adding a collaborator to the new group "
+"****"
+msgstr ""
+"**** KLAIDA: Nežinoma užklausos klaida, prie naujos grupės pridedant "
+"bendradarbį ****"
+
+#: peters_collaboration_emails.php:658
+msgid "**** ERROR: Unknown query error when creating new group ****"
+msgstr "**** KLAIDA: Nežinoma užklausos klaida, kuriant naują grupę ****"
+
+#: peters_collaboration_emails.php:663
+msgid ""
+"**** ERROR: Not all necessary group information was submitted to add a group "
+"****"
+msgstr ""
+"**** KLAIDA: Nevisa reikalinga grupės informacija buvo pateikta, pridedant "
+"naują grupę ****"
+
+#: peters_collaboration_emails.php:679 peters_collaboration_emails.php:827
+msgid "That group does not exist."
+msgstr "Ši grupė neegzistuoja."
+
+#: peters_collaboration_emails.php:693
+msgid "**** ERROR: Insufficient group name or contributor information ****"
+msgstr ""
+"**** KLAIDA: Nepakanka grupės pavadinimo arba bendradarbio informacijos ****"
+
+#: peters_collaboration_emails.php:694
+msgid "**** Make sure that there is at least one contributor. ****"
+msgstr "**** Užtikrinkite, kad yra bent vienas bendradarbis. ****"
+
+#: peters_collaboration_emails.php:723
+msgid "**** ERROR: Invalid contributor user ID ****"
+msgstr "**** KLAIDA:  Neteisingas bendradarbio vartotojo Identifikatorius ****"
+
+#: peters_collaboration_emails.php:746
+msgid "Collaborators updated."
+msgstr "Bendradarbiai atnaujinti."
+
+#: peters_collaboration_emails.php:751
+msgid "Group name updated."
+msgstr "Grupės pavadinimas atnaujintas."
+
+#: peters_collaboration_emails.php:770
+msgid "**** ERROR: That group does not exist ****"
+msgstr "**** KLAIDA: Ši grupė neegzistuoja ****"
+
+#: peters_collaboration_emails.php:784
+#, php-format
+msgid "Group %s successfully deleted."
+msgstr "Grupė %s sėkmingai ištrinta."
+
+#: peters_collaboration_emails.php:787
+msgid "**** ERROR: Database problem in removing the group. ****"
+msgstr "**** KLAIDA: Duomenų bazės klaida grupės pašalinime. ****"
+
+#: peters_collaboration_emails.php:856
+msgid "Manage group:"
+msgstr "Valdyti grupę:"
+
+#: peters_collaboration_emails.php:858
+msgid "Back to the main collaboration config menu"
+msgstr "Grįžti į pagrindinį bendradarbiavimo konfigūracijos meniu"
+
+#: peters_collaboration_emails.php:860 peters_collaboration_emails.php:1057
+msgid "Group name:"
+msgstr "Grupės pavadinimas:"
+
+#: peters_collaboration_emails.php:861
+msgid "Contributors in this group:"
+msgstr "Bendradarbiai šioje grupėje:"
+
+#: peters_collaboration_emails.php:865 peters_collaboration_emails.php:1193
+#: peters_collaboration_emails.php:1207 peters_collaboration_emails.php:1213
+#: peters_collaboration_emails.php:1229 peters_collaboration_emails.php:1257
+#: peters_collaboration_emails.php:1525
+msgid "Update"
+msgstr "Atnaujinti"
+
+#: peters_collaboration_emails.php:869
+msgid "Delete this group"
+msgstr "Ištrinti šią grupę"
+
+#: peters_collaboration_emails.php:949 peters_collaboration_emails.php:1030
+#, php-format
+msgid "General admin (%s)"
+msgstr "Pagrindinis administratorius (%s)"
+
+#: peters_collaboration_emails.php:961 peters_collaboration_emails.php:1042
+#: peters_collaboration_emails.php:1166
+msgid "Add:"
+msgstr "Pridėti:"
+
+#: peters_collaboration_emails.php:985
+msgid "Edit"
+msgstr ""
+
+#: peters_collaboration_emails.php:1058
+msgid "Add contributor:"
+msgstr "Pridėti bendradarbį:"
+
+#: peters_collaboration_emails.php:1065 peters_collaboration_emails.php:1252
+msgid "Add moderator:"
+msgstr "Pridėti prižiūrėtoją:"
+
+#: peters_collaboration_emails.php:1091
+msgid "Delete"
+msgstr ""
+
+#: peters_collaboration_emails.php:1097 peters_collaboration_emails.php:1336
+msgid "All"
+msgstr "Visi"
+
+#: peters_collaboration_emails.php:1104
+msgid "*** undefined ***"
+msgstr "*** neapibrėžta ***"
+
+#: peters_collaboration_emails.php:1117
+msgid "*** n/a ***"
+msgstr "*** nepasiekiamas ***"
+
+#: peters_collaboration_emails.php:1153
+msgid "General admin"
+msgstr "Pagrindinis administratorius"
+
+#: peters_collaboration_emails.php:1177
+msgid "Manage collaboration e-mails"
+msgstr "Valdyti bendradarbių elektroninio pašto adresus"
+
+#: peters_collaboration_emails.php:1178
+msgid ""
+"Set the moderators who should be e-mailed whenever Contributor users submit "
+"pending posts."
+msgstr ""
+"Nustatyti prižiūrėtojus, kuriems eleketroniniu paštu turėtų būti pranešta, "
+"kuomet Bendradarbiaujantys vartotojai pateikia peržiūros laukiančius įrašus."
+
+#: peters_collaboration_emails.php:1188
+msgid "Default moderators"
+msgstr "Numatytieji prižiūrėtojai"
+
+#: peters_collaboration_emails.php:1190
+msgid ""
+"These users will be e-mailed if none of the rules below match. Note that "
+"they must be either editors or administrators."
+msgstr ""
+"Šiems vartotojams bus pranešta elektroniniu paštu, jeigu neatitinka nei "
+"viena iš žemiau parodytų grupių. Svarbu, kad jie turi būti arba redaktoriai "
+"arba administratoriai."
+
+#: peters_collaboration_emails.php:1196
+msgid "Moderators by group"
+msgstr "Prižiūrėtojai pagal grupę"
+
+#: peters_collaboration_emails.php:1198 peters_collaboration_emails.php:1218
+msgid "Existing rules"
+msgstr "Galiojančios taisyklės"
+
+#: peters_collaboration_emails.php:1201
+msgid "Group"
+msgstr "Grupė"
+
+#: peters_collaboration_emails.php:1202 peters_collaboration_emails.php:1224
+msgid "Moderators"
+msgstr "Prižiūrėtojai"
+
+#: peters_collaboration_emails.php:1210
+msgid "Add a group"
+msgstr "Pridėti grupę"
+
+#: peters_collaboration_emails.php:1216
+msgid "Moderators by post type and taxonomy"
+msgstr "Prižiūrėtojai pagal įrašų tipus ir taksonomijas"
+
+#: peters_collaboration_emails.php:1221
+msgid "Post Type"
+msgstr "Įrašo Tipas"
+
+#: peters_collaboration_emails.php:1222
+msgid "Taxonomy"
+msgstr "Taksonomija"
+
+#: peters_collaboration_emails.php:1223
+msgid "Term"
+msgstr "Terminas"
+
+#: peters_collaboration_emails.php:1232
+msgid "Add post-type-specific moderators"
+msgstr "Pridėti specifinio įrašų tipo moderatorius"
+
+#: peters_collaboration_emails.php:1235
+msgid "Post type:"
+msgstr "Įrašo Tipas:"
+
+#: peters_collaboration_emails.php:1246
+msgid "Taxonomy:"
+msgstr "Taksonomija:"
+
+#: peters_collaboration_emails.php:1249
+msgid "Term:"
+msgstr "Terminas:"
+
+#: peters_collaboration_emails.php:1368
+msgid "Manual"
+msgstr ""
+
+#: peters_collaboration_emails.php:1404
+msgid "Customize plugin settings"
+msgstr ""
+
+#: peters_collaboration_emails.php:1409
+msgid ""
+"The name of your blog, to appear in the title of e-mails. Leave blank to "
+"default to the site name within WordPress."
+msgstr ""
+
+#: peters_collaboration_emails.php:1417
+msgid ""
+"E-mail address for the person sending all e-mails. If left blank, the sender "
+"is the user performing the action."
+msgstr ""
+
+#: peters_collaboration_emails.php:1425
+msgid ""
+"Name for the person sending all e-mails. If left blank, the name is of the "
+"user performing the action."
+msgstr ""
+
+#: peters_collaboration_emails.php:1433
+msgid "Let the contributor know who approved his / her post"
+msgstr ""
+
+#: peters_collaboration_emails.php:1437 peters_collaboration_emails.php:2073
+msgid "Yes"
+msgstr "Taip"
+
+#: peters_collaboration_emails.php:1438
+msgid "No"
+msgstr ""
+
+#: peters_collaboration_emails.php:1444
+msgid "Which roles on your site can only \"submit for review\""
+msgstr ""
+
+#: peters_collaboration_emails.php:1464
+msgid "Which roles on your site can approve posts"
+msgstr ""
+
+#: peters_collaboration_emails.php:1484
+msgid "Which e-mails to send"
+msgstr ""
+
+#: peters_collaboration_emails.php:1504
+msgid "Permission level required to edit collaboration e-mail settings"
+msgstr ""
+
+#: peters_collaboration_emails.php:1537
+msgid "Collaboration e-mails"
+msgstr "Bendradarbių elektroninio pašto adresai"
+
+#: peters_collaboration_emails.php:1709
+msgid "Set to pending for the first time"
+msgstr ""
+
+#: peters_collaboration_emails.php:1710
+msgid "Goes from pending to immediately published"
+msgstr ""
+
+#: peters_collaboration_emails.php:1711
+msgid "Goes from pending to approved at a set time in the future"
+msgstr ""
+
+#: peters_collaboration_emails.php:1712
+#, fuzzy
+msgid "Goes back to draft status"
+msgstr "grįžti į juodraštį"
+
+#: peters_collaboration_emails.php:1713
+msgid "Goes from scheduled to be published to actually published"
+msgstr ""
+
+#: peters_collaboration_emails.php:1714
+msgid "Goes from private to published"
+msgstr ""
+
+#: peters_collaboration_emails.php:1715
+msgid ""
+"Edited and commented on (using the Peter's Post Notes plugin) by someone who "
+"is not the author, without having changed the status"
+msgstr ""
+
+#: peters_collaboration_emails.php:1780
+msgid "Successfully updated plugin settings"
+msgstr ""
+
+#: peters_collaboration_emails.php:1910
+msgid "**** ERROR: That taxonomy type does not exist for that post type ****"
+msgstr ""
+"**** KLAIDA:  Šis taksonomijos tipas neegzistuoja šiam įrašų tipui ****"
+
+#: peters_collaboration_emails.php:1927
+msgid ""
+"**** ERROR: That post type rule already exists. Please add or remove "
+"moderators to the existing rule. ****"
+msgstr ""
+"**** KLAIDA: Šio įrašo tipo taisyklė jau egzsituoja. Prašome pridėti arba "
+"pašalinti egzistuojančios taisyklės prižiūrėtojus. ****"
+
+#: peters_collaboration_emails.php:1937
+msgid "**** ERROR: Invalid new moderator user ID ****"
+msgstr ""
+"**** KLAIDA: Neteisingas naujo prižiūrėtojo vartotojo Identifikatorius ****"
+
+#: peters_collaboration_emails.php:1949
+msgid "**** ERROR: Invalid new moderator submitted ****"
+msgstr "**** KLAIDA: Paskirtas neteisingas naujasis prižiūrėtojas ****"
+
+#: peters_collaboration_emails.php:1964
+msgid "New moderator added for the post type rule."
+msgstr "Naujas prižiūrėtojas įrašo tipo valdymui priskirtas."
+
+#: peters_collaboration_emails.php:1968
+msgid ""
+"**** ERROR: Unknown query error when adding a new moderator for the post "
+"type rule ****"
+msgstr ""
+"**** KLAIDA: Nežinoma užklausos klaida, pridedant naują prižiūrėtoją įrašo "
+"tipo valdymui ****"
+
+#: peters_collaboration_emails.php:1974
+msgid "**** ERROR: No moderator was submitted for the post type rule ****"
+msgstr ""
+"**** KLAIDA: Joks prižiūrėtojas nebuvo priskirtas įrašo tipo valdymui ****"
+
+#: peters_collaboration_emails.php:2008
+#, php-format
+msgid "**** ERROR: Post type rule with ID of %d does not exist ****"
+msgstr ""
+"**** KLAIDA: Įrašo tipo valdymas %d Identifikatoriumi neegzistuoja ****"
+
+#: peters_collaboration_emails.php:2037
+msgid ""
+"You must have at least one default moderator for each rule. Otherwise, "
+"delete the rule."
+msgstr ""
+"Jūs turite turėti bent vieną numatytąjį prižiūrėtoją kiekvienai grupei. Kitu "
+"atveju, ištrinkite grupę."
+
+#: peters_collaboration_emails.php:2045
+msgid "Moderators for the post type rules updated."
+msgstr "Įrašo tipo valdymo prižiūrėtojai atnaujinti."
+
+#: peters_collaboration_emails.php:2058
+msgid "Delete post type rule"
+msgstr "Ištrinti įrašo tipo taisyklę"
+
+#: peters_collaboration_emails.php:2066
+msgid "Post type rule successfully deleted."
+msgstr "Įrašo tipo grupė sėkmingai ištrinta."
+
+#: peters_collaboration_emails.php:2071
+msgid "Are you sure you want to remove this post type rule?"
+msgstr "Ar tikrai norite ištrinti šią įrašų tipo grupę?"
+
+#: peters_collaboration_emails.php:2076
+msgid "No, go back"
+msgstr "Ne, grįžti"
+
+#: peters_collaboration_emails.php:2082
+msgid "That post type rule does not exist."
+msgstr "Įrašų tipo grupė neegzistuoja."
+
+#~ msgid "by"
+#~ msgstr "von"
+
+#~ msgid "and is now published."
+#~ msgstr "und ist ver&ouml;ffentlicht."
+
+#~ msgid "**** ERROR: Category with ID of %d does not exist ****"
+#~ msgstr "**** FEHLER: Kategorie mit ID %d ist nicht vorhanden ****"
+
+#~ msgid "Moderators for the category \"%s\" updated."
+#~ msgstr "Moderatoren der Kategorie \"%s\" aktualisiert."
+
+#~ msgid "You must have at least one default mod for the category \"%s\"."
+#~ msgstr ""
+#~ "Sie brauchen mindestens einen Standardmod f&uuml;r die Kategorie \"%s\"."
+
+#~ msgid "**** ERROR: Invalid category ID ****"
+#~ msgstr "**** FEHLER: Kategorie-ID ung&uuml;ltig ****"
+
+#~ msgid "**** ERROR: Invalid new category moderator user ID ****"
+#~ msgstr ""
+#~ "**** FEHLER: Benutzer-ID des neuen Kategoriemoderator ung&uuml;ltig ****"
+
+#~ msgid "**** ERROR: Invalid new category moderator submitted ****"
+#~ msgstr ""
+#~ "**** FEHLER: Eingegebener neuer Kategoriemoderator ung&uuml;ltig ****"
+
+#~ msgid ""
+#~ "**** ERROR: Unknown query error when adding a new category moderator ****"
+#~ msgstr ""
+#~ "**** FEHLER: unbekannter Abfragefehler beim zuf&uuml;gen eines neuen "
+#~ "Kategoriemoderators ****"
+
+#~ msgid "E-mail:"
+#~ msgstr "E-Mail:"
+
+#~ msgid "Category:"
+#~ msgstr "Kategorie:"
+
+#~ msgid "Rules"
+#~ msgstr "Regeln"
+
+#~ msgid "Category"
+#~ msgstr "Kategorie"
